@@ -1,0 +1,1 @@
+Mọi module/function quan trọng phải có docstring Google-style. README cập nhật khi cần.

@@ -1,0 +1,5 @@
+---
+name: browser-automation
+description: Sử dụng Browser Sub-Agent để test UI/automation
+priority: low
+---

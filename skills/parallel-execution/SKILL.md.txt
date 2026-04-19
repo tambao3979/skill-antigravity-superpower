@@ -1,0 +1,5 @@
+---
+name: parallel-execution
+description: Phân công multi-agent chạy song song
+priority: medium
+---

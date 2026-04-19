@@ -1,0 +1,17 @@
+---
+name: bugfix-complete
+description: Workflow fix bug triệt để (root cause → fix → prevent recurrence)
+priority: high
+---
+
+Bạn đang thực hiện workflow **Bugfix Complete**.
+
+Các bước bắt buộc:
+1. **Reproduce** → Xác nhận bug, ghi lại steps để reproduce.
+2. **Root Cause Analysis** → Phân tích sâu nguyên nhân (không fix triệu chứng).
+3. **Fix** → Sửa code, giữ nguyên behavior cũ trừ khi có lý do rõ ràng.
+4. **Test** → Viết test mới cho trường hợp bug + chạy toàn bộ test liên quan.
+5. **Prevent** → Thêm comment hoặc rule để tránh tái phát.
+6. **Verify** → Test lại trên môi trường thực tế (sử dụng Browser Sub-Agent nếu cần).
+
+Kết thúc: “✅ Bug đã được fix triệt để. Test coverage cho phần này là X%.”

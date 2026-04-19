@@ -1,0 +1,1 @@
+Kiểm tra OWASP Top 10, input validation, secret handling, rate limiting, authn/authz trong mọi code.

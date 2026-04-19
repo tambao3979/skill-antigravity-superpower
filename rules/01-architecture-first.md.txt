@@ -1,0 +1,1 @@
+Trước khi code bất kỳ feature nào, phải đưa ra architecture diagram (Mermaid) và giải thích trade-off.

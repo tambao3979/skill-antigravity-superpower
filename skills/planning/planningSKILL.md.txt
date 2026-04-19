@@ -1,0 +1,5 @@
+---
+name: planning
+description: Tạo kế hoạch chi tiết, task breakdown, dependency mapping
+priority: high
+---

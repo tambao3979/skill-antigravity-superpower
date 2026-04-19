@@ -1,0 +1,5 @@
+---
+name: git-workflow
+description: Conventional commit, PR description, branch strategy
+priority: medium
+---

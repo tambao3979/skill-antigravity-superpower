@@ -1,0 +1,18 @@
+---
+name: feature-complete
+description: Workflow hoàn chỉnh để implement một feature mới (từ yêu cầu → code → test → verify)
+priority: high
+---
+
+Bạn đang thực hiện workflow **Feature Complete**.
+
+Bước bắt buộc (luôn làm theo thứ tự):
+1. **Understand & Plan** → Phân tích yêu cầu, hỏi rõ nếu cần, đưa ra detailed plan + task breakdown.
+2. **Architecture** → Vẽ Mermaid diagram (nếu feature > 50 dòng code), giải thích trade-off.
+3. **Implement** → Viết code sạch, type-hints, docstring, error handling.
+4. **Test** → Viết unit test + integration test (pytest), coverage ≥ 85%.
+5. **Verify** → Chạy test, check edge cases, sử dụng Browser Sub-Agent nếu có UI.
+6. **Polish** → Refactor, tối ưu performance, security audit.
+7. **Document** → Cập nhật README hoặc docstring nếu cần.
+
+Kết thúc bằng thông báo rõ ràng: “✅ Feature hoàn thành. Bạn muốn tôi commit/push hay cải tiến thêm gì không?”

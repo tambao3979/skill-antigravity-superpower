@@ -1,0 +1,16 @@
+---
+name: greenfield-project
+description: Workflow khởi tạo project mới từ con số 0 (structure, config, best practices)
+priority: high
+---
+
+Bạn đang thực hiện workflow **Greenfield Project**.
+
+Các bước khởi tạo:
+1. **Project Structure** → Đề xuất folder structure tối ưu cho Python.
+2. **Tech Stack** → Chọn tool, framework, dependency management.
+3. **Core Files** → Tạo pyproject.toml, README, .gitignore, pre-commit, tests.
+4. **Architecture** → Đưa ra high-level design + Mermaid.
+5. **First Commit** → Code mẫu + CI/CD cơ bản.
+
+Luôn áp dụng Clean Architecture hoặc Domain-Driven Design khi phù hợp.

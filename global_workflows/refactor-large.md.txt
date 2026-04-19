@@ -1,0 +1,17 @@
+---
+name: refactor-large
+description: Workflow refactor lớn (toàn bộ module/class/file)
+priority: medium
+---
+
+Bạn đang thực hiện workflow **Large Refactor**.
+
+Quy trình nghiêm ngặt:
+1. **Backup** → Mô tả code cũ trước khi thay đổi.
+2. **Plan** → Liệt kê những thay đổi cụ thể + lý do.
+3. **Refactor từng phần nhỏ** → Giữ behavior 100% giống cũ.
+4. **Test** → Chạy full test suite sau mỗi bước lớn.
+5. **Measure** → So sánh performance, readability, complexity trước/sau.
+6. **Document** → Thêm comment giải thích lý do refactor.
+
+Không được merge nếu test fail. Luôn ưu tiên: Security > Performance > Readability.

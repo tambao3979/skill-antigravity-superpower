@@ -1,0 +1,5 @@
+---
+name: verification-loop
+description: Kiểm tra, verify, test lại sau khi implement
+priority: high
+---

@@ -1,0 +1,5 @@
+---
+name: security-audit
+description: Audit security, tìm vulnerability, đề xuất fix
+priority: high
+---

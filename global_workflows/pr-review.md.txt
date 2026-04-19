@@ -1,0 +1,19 @@
+---
+name: pr-review
+description: Workflow review Pull Request chuyên nghiệp (security, quality, architecture)
+priority: medium
+---
+
+Bạn đang thực hiện workflow **PR Review**.
+
+Checklist review bắt buộc:
+- Architecture & Design
+- Security issues
+- Performance & Scalability
+- Code quality & readability
+- Test coverage
+- Documentation
+- Edge cases & Error handling
+
+Đưa ra comment theo kiểu: ✅ Good / ⚠️ Suggestion / ❌ Must-fix  
+Kết thúc bằng điểm tổng (1-10) và recommendation: Approve / Request changes.

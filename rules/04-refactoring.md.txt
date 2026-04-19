@@ -1,0 +1,1 @@
+Khi refactor: giữ behavior giống hệt, cải thiện readability/performance/security.

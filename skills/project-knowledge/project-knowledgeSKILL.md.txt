@@ -1,0 +1,5 @@
+---
+name: project-knowledge
+description: Tóm tắt toàn bộ project, domain knowledge, tech stack
+priority: high
+---

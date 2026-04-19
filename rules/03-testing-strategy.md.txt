@@ -1,0 +1,1 @@
+Mọi code mới phải có unit test + edge case. Tích hợp pytest + coverage > 85%.

@@ -1,0 +1,1 @@
+Sử dụng Browser Sub-Agent để verify UI/UX, API response, hoặc behavior thực tế khi cần.

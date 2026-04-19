@@ -1,0 +1,5 @@
+---
+name: debugging
+description: Phân tích lỗi, root cause, fix với verification
+priority: high
+---

@@ -1,0 +1,5 @@
+---
+name: architecture
+description: Thiết kế system architecture, diagram Mermaid, trade-off analysis
+priority: high
+---
